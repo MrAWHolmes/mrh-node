@@ -1,0 +1,17 @@
+BASED ON : https://youtube.be/mrHNSanpqQ4
+
+CH1 - introduction
+
+Waffle about what is MERN
+
+CH2 MONGODB OVERVIEW
+
+TABLE --> COLLECTION
+RECORD --> DOCUMENT
+JOIN --> $lookup
+FOREIGN KEY --> REFERENCES
+
+DOCUMENTS ARE BSON (Binary JSON)
+
+CHAPTER 3 - MONGODB ATLAS
+
